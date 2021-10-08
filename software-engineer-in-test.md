@@ -1,14 +1,13 @@
-# Software Engineer in Test - Mid Level
-
+# Software Engineer in Test
 ### Job Title
  
-Software Engineer in Test - Mid level - Level 2
+Software Engineer in Test
 
 ### Team
 Quality Engineering 
 
 ### Location
-Remote first with occasional visit to UK office.
+Remote working.
 
 ### About Banked
 Banked intends to create the next global payments network. We believe credit and debit cards were created for a world that no longer exists, and technology will enable us to create a new, living payments network. We believe that the core purpose of a payment network is to enable sales and conversion, not to just move money and we're doing that with data in a way no one has seen before.<BR>
@@ -60,7 +59,7 @@ We want to take your time seriously, and use as little of it as possible to make
 All interviews will take place remotely, via Zoom.<BR>
 Your interview will be broken down into three stages, scheduled separately and with feedback after each: 
 - A 30-minutes interview with your team's Engineering Lead, where we'll tell you about the role, understand your experience, professional background and understand common interests. At the end of this meeting, we will provide a coding challenge.  The candidate shall provide a solution and share it via GitHub, within 1-2 days.
-- A 45-minutes interview with the Lead Quality engineer, where we will discuss the candidate's solution on the coding challenge and other quality engineering technical aspects, practises and expectations.
+- A 60-minutes interview with the Lead Quality engineer, where we will discuss the candidate's solution on the coding challenge and other quality engineering technical aspects, practises and expectations.
 - In the final stage of the interview, the candidate will meet the Engineering Lead for further technical discussions. And will meet our chief of staff to understand what you want to achieve with your career and how Banked can help you achieve it.
 
 At this point we should have enough information to make you an offer, should it be appropriate.
