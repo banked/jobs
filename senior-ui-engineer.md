@@ -8,7 +8,7 @@ Global Payments
 
 ### Location
 
-Remote
+Remote (Europe)
 
 ### About Banked
 
