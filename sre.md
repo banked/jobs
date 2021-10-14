@@ -4,7 +4,7 @@ Site Reliability Engineer
 
 ### Location
 
-Remote
+Remote (Europe)
 
 ### About Banked
 
