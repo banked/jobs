@@ -7,7 +7,7 @@ Software Engineer in Test
 Quality Engineering 
 
 ### Location
-Remote working.
+Remote (Europe)
 
 ### About Banked
 Banked intends to create the next global payments network. We believe credit and debit cards were created for a world that no longer exists, and technology will enable us to create a new, living payments network. We believe that the core purpose of a payment network is to enable sales and conversion, not to just move money and we're doing that with data in a way no one has seen before.<BR>
