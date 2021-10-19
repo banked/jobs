@@ -4,7 +4,7 @@
 
 Senior Technical Writer
 
-3 month contract, with a possible extension to 6 months
+2 - 3 month contract, with a possible extension to 6 months
 
 ### About Banked
 
