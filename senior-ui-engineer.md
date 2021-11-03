@@ -2,10 +2,6 @@
 
 Senior UI Engineer
 
-### Team
-
-Global Payments
-
 ### Location
 
 Remote (Europe)
