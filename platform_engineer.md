@@ -1,6 +1,6 @@
 ### Job Title
 
-Site Reliability Engineer
+Platform Engineer
 
 ### Location
 
@@ -20,7 +20,7 @@ We're looking for someone who shares our vision, who identifies with our desire 
 
 You'll participate in the direction of the company and products, you'll be part of small team where everyone has a voice.
 
-As an SRE at Banked, you'll be building the foundation of our system. You'll use Go and its ecosystem to build observability tools and core services that will ensure the reliability of our mission-critical system and API's.
+As a Platform Engineer at Banked, you'll be building the foundation of our system. You'll use Go and its ecosystem to build observability tools and core services that will ensure the reliability of our mission-critical system and API's.
 
 You'll empower other engineers to build scalable, reliable, and observable systems. You'll also solve a series of interesting technical problems. 
 
