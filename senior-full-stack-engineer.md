@@ -4,11 +4,11 @@ Senior Software Engineer (Full-stack)
 
 ### Team
 
-Global Payments
+Product Engineering 
 
 ### Location
 
-Remote (UK)
+Remote (UK/Europe)
 
 ### About Banked
 
@@ -30,14 +30,13 @@ Someone who enjoys working on a small team and wants to learn and grow will be m
 
 We don't expect people to be experts with all of the technology we use or to immediately be able to pickup all the tasks we might ask of them. We want to build an environment where people can learn and grow openly, where failure is accepted as a part of learning and there's enough support to help people be successful.
 
-This role is on the Global Payments team, which builds the customer facing products that power our new payment network.
+This role is for our Product engineering team, which builds the customer facing products that power our new payment network.
 
 ### You will
 
-- Work with other engineers, product managers and designers across the company to prioritise, build, measure and iterate over new features or products
-- Have significant experience working with Ruby on Rails
-- Build elegant interfaces which will be hosted by us, embeddable by our clients and integratable as components; focusing on on web performance and accessibility
+- Work with other engineers, product managers and designers across the company to prioritise, build, measure and iterate over new features and products
 - Build APIs and services that reliably deliver functionality to our customers
+- Build elegant interfaces which will be hosted by us, embeddable by our clients and integratable as components; focusing on on web performance and accessibility
 - Improve engineering standards, tooling and processes as we grow
 - Be part of the team evolving architecture and design of our software stack
 - Mentor and help grow your peers and junior engineers, as well as be open to feedback and mentoring from those around you
@@ -47,7 +46,8 @@ This role is on the Global Payments team, which builds the customer facing produ
 - Significant experience in communicating and working with software teams, and working towards building inclusive, fun environments
 - A track record of taking software end-to-end, from inception working alongside product managers and designers to production and beyond
 - A passion for learning and growth, picking up new skills and tools
-- Very strong working experience working with JavaScript, HTML, CSS and HTTP APIs
+- Significant experience working with Ruby on Rails
+- Strong working experience working with JavaScript, HTML, CSS and Restful APIs
 - Experience working with modern Javascript development tools and test frameworks
 - Familiarity with modern browser APIs and the web platform
 - Testing modern interfaces and front-end code
@@ -57,6 +57,7 @@ This role is on the Global Payments team, which builds the customer facing produ
 ### Any combination of the following would make your application stand out
 
 - Designing and scaling API services
+- Experiance working on distributed systems
 - Experience in mentoring and building the skills of junior engineers
 - A presence in and experience engaging public web communities
 - Experience working with Go
@@ -70,7 +71,7 @@ We want to take your time seriously, and use as little of it as possible to make
 
 1. An intitial phone or video call (your preference) with the Engineering Lead to outline the company and the role, and for you to share your career experience. If there's a good fit to move forward, we'll continue with a technical interview.
 2. A technical interview with the Engineering Lead alongside another member of the team. It's a chance for you to share your technical knowledge in a little more depth. There are no coding puzzles or quizzes, just a conversation around some case studies and experiences. We'll email out a rough outline of the questions beforehand, so you'll have time to think and prepare. If it's important for you to get a feel for working with the team, or if you prefer to share your skills through coding, we're happy to offer some pairing time. 
-3. A final stage for you to meet the CTO and Head of Operations to talk through the high level direction of the company, what you want to achieve with your career and how Banked can help you achieve it. At this point we should have enough information to make you an offer, should it be appropriate.
+3. A final stage for you to meet the VP of Engineering and Head of Operations to talk through the high level direction of the company, what you want to achieve with your career and how Banked can help you achieve it. At this point we should have enough information to make you an offer, should it be appropriate.
 
 All interviews will take place remotely.
 
