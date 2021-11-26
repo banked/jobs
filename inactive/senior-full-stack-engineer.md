@@ -8,7 +8,7 @@ Product Engineering
 
 ### Location
 
-Remote (EUR)
+Remote (UK/Europe)
 
 ### About Banked
 
