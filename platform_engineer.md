@@ -46,7 +46,6 @@ working towards building inclusive, fun environments
 - Experience with public cloud environments  - Google Cloud is an advantage
 - Experience with Kubernetes
 - Experience with troubleshooting performance problems and system outages.
-- Commercial experience in Go
 
 
 ### **Any combination of the following would make your application stand out**
@@ -55,6 +54,8 @@ working towards building inclusive, fun environments
 - Experience working with open telemetry tools
 - Experience working with Prometheus Stack 
 - Experience with event-driven architectures
+- Commercial experience in Go
+
 
 
 ### The interview process
