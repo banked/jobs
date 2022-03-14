@@ -1,8 +1,8 @@
-# Techlead (Product Engineering)
+# Tech Lead (Product Engineering)
 
 ### Job Title
 
-Techlead - Product engineering
+Tech Lead - Product engineering
 
 ### Location
 
@@ -22,7 +22,7 @@ We're looking for someone who shares our vision, who identifies with our desire 
 
 You'll participate in the direction of the company and products, you'll be part of a team where everyone has a voice.
 
-As a Product engineering techlead at Banked you'll be leading, hands-on a small team to build our core API products and back-end services. You'll use Go and its ecosystem to deliver event driven, composable and distributed systems that can be consumed either directly by our customers or by other engineers at Banked. You'll also build resilient integrations with some of our external partners and their APIs, building the core functionality of our products.
+As a Product engineering tech lead at Banked you'll be leading, hands-on a small team to build our core API products and back-end services. You'll use Go and its ecosystem to deliver event driven, composable and distributed systems that can be consumed either directly by our customers or by other engineers at Banked. You'll also build resilient integrations with some of our external partners and their APIs, building the core functionality of our products.
 
 We don't expect people to be experts with all of the technology we use or to immediately be able to pickup all the tasks we might ask of them. We want to build an environment where people can learn and grow openly, where failure is accepted as a part of learning and there's enough to support to help people be successful.
 
@@ -62,11 +62,11 @@ We want to take your time seriously, and use as little of it as possible to make
 
 All interviews will take place remotely, via Zoom.
 
-Your interview will be broken down into three stages, scheduled separately and with feedback after each:
+Your interview will be broken down into four stages, scheduled separately and with feedback after each:
 
 1. An initial call with the VP of Engineering to outline the company and the role, and for you to share your career experience. If there's a good fit to move forward, we'll continue with a technical interview.
 2. A technical interview with peer tech leads. It's a chance for you to share your technical knowledge in a little more depth. We'll outline a few high level technical problems and discuss possible solutions together.
-3. A technical interview our VP Engineering, focused more on system architecture and leadership skills.
+3. An interview our VP Engineering, focused more on system architecture and leadership skills.
 4. A final stage for you to talk with our Head of People about the high level direction of the company, what you want to achieve with your career and how Banked can help you achieve it. At this point we should have enough information to make you an offer, should it be appropriate.
 
 All interviews will take place remotely.
