@@ -73,4 +73,4 @@ All interviews will take place remotely.
 
 After this point we should have enough information to make you an offer, should it be appropriate.
 
-You'll be given the chance to ask questions at all of these stages, and we would encourage you to do so. After each of the three stages you'll be given structured feedback and should we choose not to progress you'll be offered the chance to talk with our CTO to understand our decision.
+You'll be given the chance to ask questions at all of these stages, and we would encourage you to do so. After each of the three stages you'll be given structured feedback and should we choose not to progress you'll be offered the chance to talk with our VP Engineering to understand our decision.
