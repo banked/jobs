@@ -22,7 +22,7 @@ We're looking for someone who shares our vision, who identifies with our desire 
 
 You'll participate in the direction of the company and products, you'll be part of a small team where everyone has a voice.
 
-As a Senior Back-End Engineer at Banked you'll be building our core API products and back-end services. You'll use Go and its ecosystem to deliver event driven, composable and distributed systems that can be consumed either directly by our customers or by other engineers at Banked. You'll also build resilient integrations with some of our external partners and their APIs, building the core functionality of our products.
+As a Senior Back-End Engineer at Banked you'll be building our core API products and back-end services. You'll deliver event driven, composable and distributed systems that can be consumed either directly by our customers or by other engineers at Banked. You'll also build resilient integrations with some of our external partners and their APIs, building the core functionality of our products.
 
 We don't expect people to be experts with all of the technology we use or to immediately be able to pickup all the tasks we might ask of them. We want to build an environment where people can learn and grow openly, where failure is accepted as a part of learning and there's enough to support to help people be successful.
 
