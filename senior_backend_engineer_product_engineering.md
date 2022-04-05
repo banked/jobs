@@ -42,7 +42,8 @@ We don't expect people to be experts with all of the technology we use or to imm
 - A track record of taking software end-to-end, from inception working alongside product managers and designers to production and beyond
 - A track record of developing for system maintainability and ease of operation
 - Experience developing distributed,reliable and resilient systems
-- Substantial experience in Go, alongside a number of other languages
+- Substantial experience in Go
+- Experiance in node.js and Ruby - a big advantage
 
 ### **Any combination of the following would make your application stand out**
 
