@@ -4,7 +4,7 @@ Senior Software Engineer (Full-stack)
 
 ### Team
 
-Product Engineering 
+Product Engineering
 
 ### Location
 
@@ -24,7 +24,7 @@ We're looking for someone who shares our vision, who identifies with our desire 
 
 You'll participate in the direction of the company and products, you'll be part of small team where everyone has a voice.
 
-As a Senior full-stack Software Engineer at Banked you'll be working on products that power owr payment network. You'll work on back-end services and APIs and front-end web applications and SDKs.
+As a Senior full-stack Software Engineer at Banked you'll be working on products that power our payment network. You'll work on back-end services and APIs and front-end web applications and SDKs.
 
 We don't expect people to be experts with all of the technology we use or to immediately be able to pickup all the tasks we might ask of them. We want to build an environment where people can learn and grow openly, where failure is accepted as a part of learning and there's enough support to help people be successful.
 
@@ -32,7 +32,7 @@ This role is for our Product engineering team, which builds the customer facing 
 
 ### You will
 
-- Work with other engineers, product managers and designers across the company to prioritise, build, measure and iterate over new features and products
+- Work with other engineers, product managers and designers across the company to priorities, build, measure and iterate over new features and products
 - Build APIs and services that reliably deliver functionality to our customers
 - Build elegant interfaces which will be hosted by us, embeddable by our clients and integratable as components; focusing on on web performance and accessibility
 - Improve engineering standards, tooling and processes as we grow
@@ -48,14 +48,14 @@ This role is for our Product engineering team, which builds the customer facing 
 - Experience working with modern Javascript development tools and test frameworks
 - Familiarity with modern browser APIs and the web platform
 - A track record of developing for system maintainability and ease of operation
-- Experiance working with distributed systems and its challenges
+- Experience working with distributed systems and its challenges
 - A passion for learning and growth, picking up new skills and tools
 
 
 ### Any combination of the following would make your application stand out
 
 - Designing and scaling API services
-- Experiance working on distributed systems
+- Experience working on distributed systems
 - Experience in mentoring and building the skills of junior engineers
 - A presence in and experience engaging public web communities
 - Experience building JavaScript SDKs and libraries
@@ -66,7 +66,7 @@ The interview process will focus on three areas: your experience building produc
 
 We want to take your time seriously, and use as little of it as possible to make our decision. We will also commit to giving you constructive, meaningful feedback whether we decide to move forward together or not.
 
-1. An intitial phone or video call (your preference) with the Engineering Lead to outline the company and the role, and for you to share your career experience. If there's a good fit to move forward, we'll continue with a technical interview.
+1. An initial phone or video call (your preference) with the Engineering Lead to outline the company and the role, and for you to share your career experience. If there's a good fit to move forward, we'll continue with a technical interview.
 2. A technical interview with the Engineering Lead alongside another member of the team. It's a chance for you to share your technical knowledge in a little more depth. We'll outline a few high level technical problems and discuss possible solutions together.
 3. A technical interview with our VP Engineering, focused more on system architecture.
 4. A final stage for you to talk with our Head of People about the high level direction of the company, what you want to achieve with your career and how Banked can help you achieve it. At this point we should have enough information to make you an offer, should it be appropriate.
