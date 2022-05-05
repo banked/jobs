@@ -32,7 +32,7 @@ This role is for our Product engineering team, which builds the customer facing 
 
 ### You will
 
-- Work with other engineers, product managers and designers across the company to priorities, build, measure and iterate over new features and products
+- Work with other engineers, product managers and designers across the company to prioritize, build, measure and iterate over new features and products
 - Build APIs and services that reliably deliver functionality to our customers
 - Build elegant interfaces which will be hosted by us, embeddable by our clients and integratable as components; focusing on on web performance and accessibility
 - Improve engineering standards, tooling and processes as we grow
