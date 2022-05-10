@@ -28,7 +28,7 @@ We don't expect people to be experts with all of the technology we use or to imm
 
 ### **You will**
 
-- Work with other engineers and other departments across the company to prioritise, build, measure and iterate over new features or products
+- Work with other engineers and other departments across the company to prioritise, build, measure and iterate over new components,features or products
 - Build services and software that's fast, resilient and and meets our challenging scale, integrity and security needs
 - Build event based service with REST based or RPC based interfaces that are consumed by engineers on other teams or by our customers
 - Improve engineering standards, tooling and processes as we grow
