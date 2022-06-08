@@ -34,6 +34,7 @@ We don't expect people to be experts with all of the technology we use or to imm
 - Experience with production environments/data platforms serving production.
 - Experience with ETL pipelines design, implementation, monitoring, and maintenance.
 - Highly skilled with SQL, experienced with MPP columnar databases like Snowflake, Redshift, Bigquery, etc.
+- Experiance with distributed databases such as cassandra, cloud spanner etc.
 - Experience with at least one BI tool such as PowerBI, Tableau, looker etc.
 - Experience with Golang or any other programming language.
 - A track record of developing for system maintainability and ease of operation.
