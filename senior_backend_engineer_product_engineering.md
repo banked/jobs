@@ -54,7 +54,7 @@ We don't expect people to be experts with all of the technology we use or to imm
 - Experience building service based architectures
 - Experience building within event driven architectures
 - Experience working with public cloud technologies (GCP, AWS)
-- Experiance with k8s
+- Experience with k8s
 
 ### The interview process
 
