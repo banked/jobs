@@ -61,7 +61,7 @@ Experience working with public cloud infrastructure and services.
 - Significant experience in communicating and working with software teams, and working towards building inclusive, fun environments.
 - Experience with the US Banking domain is preferred but not required.
 - A passion for learning and growth, picking up new skills and tools.
-- Solid knowledge on front-end technologies.
+- Solid knowledge of front-end technologies.
 - Experience understanding system maintainability and ease of operation.
 - Deep understanding of the software development lifecycle.
 - Flexibility to work with teams in multiple time zones.
