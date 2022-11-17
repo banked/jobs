@@ -25,17 +25,19 @@ We are aiming to be a cross-functional team where Quality Engineers help develop
 ### You will
 - Understand Banked products, their features and how users interact with them and develop scalable and reliable automated testing frameworks for testing Banked's software. This includes end-to-end web/api tests, service level tests, integration tests, contract tests, performance tests, infrastructure tests, chaos testing, security tests and exploratory tests.
 
-- Come up with Acceptance Test Plan during new market adoption and drive the test programme with third-party suppliers.
+- Create acceptance test plans for testing new market entry, and drive the test programme with third-party suppliers.
 
-- Help engineers to own quality and help improve the quality processes through training, mentoring and pair programming.
+- Help engineers to own quality and help improve the quality processes through coaching, mentoring and pair programming.
 
 - Engage with Product Management on the feasibility of requested features, clarifying requirements where necessary and identifying challenges.
 
-- Contributes to technical design, thinking through failure cases and building quality from the earliest phase of SDLC. (Shift left thinking)
+- Contribute to technical design, thinking through failure cases and building quality from the earliest phase of SDLC. (Shift left thinking)
 
-- Help engineers to build quality rather than just testing.
+- Help engineers to own quality and improve their quality processes
 
 - Take ownership and work autonomously on any development task within an application or service, delivering code on time and with a quality mindset.
+
+- Make use of shift left/right thinking to contribute to technical design, advocate for observability, and to more deeply embed quality processes and mindsets throughout the SDLC.
 
 ### You may be a good fit if you have
 - Significant experience building test automation solutions, automated testing frameworks, monitoring systems and improving test effectiveness.
@@ -49,21 +51,20 @@ Experience working with public cloud infrastructure and services.
     * Automated security and vulnerability testing.
     * Ability to determine the right open-source/tool to address tooling requirements.
     * Ability to write and understand unit tests. 
-    * Know or are willing to learn "go" programming language. 
+    * Know or are willing to learn GoLang programming language. 
     * Basic knowledge of mobile app test automation.
     * Practical experience building quality for microservices.
     * Practical experience building quality for distributed systems containing several microservices.
-    * Understanding of how best practises with Quality Engineering.
-    * Understanding of technologies like traceability, cloud computing and Kubernetes.<BR>
+    * Understanding of technologies like Open Telemetry, cloud computing and Kubernetes.<BR>
 
 - Experience working with production-grade JavaScript.
 - Significant experience in communicating and working with software teams, and working towards building inclusive, fun environments.
-- Experience with the US Banking domain is preferred but not a mandatory condition.
+- Experience with the US Banking domain is preferred but not required.
 - A passion for learning and growth, picking up new skills and tools.
 - Solid knowledge on front-end technologies.
-- A track record of developing system maintainability and ease of operation.
-- Deep understanding of the development process, design, development, testing and deployment.
-- Flexible to work with teams in multiple time zones.
+- Experience understanding system maintainability and ease of operation.
+- Deep understanding of the software development lifecycle.
+- Flexibility to work with teams in multiple time zones.
 
 ### The interview process
 The interview process will focus on three areas: your experience building products and taking on technical challenges; your technical skills; and how you'll fit in culturally with the rest of the team.<BR>
